@@ -48,7 +48,7 @@ After processing the data and finding the best neighbours which was 11 the model
    ![image](https://github.com/user-attachments/assets/33a72fbd-431f-4c4e-8032-e67a479714df)
 
 # Algorithims:
-K Neartes Neighbour: This is a supervised machine learning algorithm which uses proximity to make classifications or predictions about the grouping of data point. In this projected the classifcation of cars based multple factors.
+K Neartes Neighbour: This is a supervised machine learning algorithm which uses proximity to make classifications or predictions about the grouping of data point. In this project the classifcation of cars based multple factors was done.
 
 # Online Sources:
 1. Mmdatainfo. (2020, April 21). K-Nearest Neighbors. Kaggle. https://www.kaggle.com/code/mmdatainfo/k-nearest-neighbors
