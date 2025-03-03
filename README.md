@@ -56,7 +56,7 @@ K Neartes Neighbour: This is a supervised machine learning algorithm which uses 
 3. Matplotlib 3.9.2 documentation# (2025) Matplotlib documentation - Matplotlib 3.9.2 documentation. Available at: https://matplotlib.org/stable/ (Accessed: Feb 2025).
 4. User guide (2025) scikit. Available at: https://scikit-learn.org/stable/user_guide.html (Accessed: Feb 2025).
 5. Comment, info, M., kartik, kartik Follow, Kartik, & Follow. (2025). K-Nearest Neighbor(KNN) algorithm. GeeksforGeeks. https://www.geeksforgeeks.org/k-nearest-neighbours/ 
-d
+
 # Tools and Tech Used: 
 1. K Nearest Neighbours
 2. Jupter Notebook
